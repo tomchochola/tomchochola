@@ -71,6 +71,10 @@ _Stay tuned for more..._
 
 ### PHP & Backend 🐘
 
+#### **[PHP Util](https://github.com/tomchochola/php-util)**
+
+Elevate PHP development with PHP Util: a comprehensive suite offering innovative solutions for data handling, error management, and more. Designed for streamlined integration and enhanced efficiency.
+
 #### **[PHPStan Config](https://github.com/tomchochola/phpstan-config)**
 
 Boost PHP code quality with our PHPStan Config: integrating the latest rules and extensions for comprehensive analysis. Designed for seamless setup and continuous improvement.

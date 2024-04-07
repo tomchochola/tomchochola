@@ -75,6 +75,10 @@ _Stay tuned for more..._
 
 Elevate PHP development with PHP Util: a comprehensive suite offering innovative solutions for data handling, error management, and more. Designed for streamlined integration and enhanced efficiency.
 
+#### **[PHP HTTP Client](https://github.com/tomchochola/php-http-client)**
+
+Streamline HTTP communication in PHP with PHP HTTP Client: a native, lightweight library for efficient client-server interactions. Ideal for robust and compliant web applications.
+
 #### **[PHPStan Config](https://github.com/tomchochola/phpstan-config)**
 
 Boost PHP code quality with our PHPStan Config: integrating the latest rules and extensions for comprehensive analysis. Designed for seamless setup and continuous improvement.

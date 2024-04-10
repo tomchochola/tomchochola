@@ -79,6 +79,10 @@ Elevate PHP development with PHP Util: a comprehensive suite offering innovative
 
 Streamline HTTP communication in PHP with PHP HTTP Client: a native, lightweight library for efficient client-server interactions. Ideal for robust and compliant web applications.
 
+#### **[PHP JSON API](https://github.com/tomchochola/php-json-api)**
+
+Simplify JSON API response creation in PHP with our library, ensuring standardized outputs and efficient data structuring.
+
 #### **[PHPStan Config](https://github.com/tomchochola/phpstan-config)**
 
 Boost PHP code quality with our PHPStan Config: integrating the latest rules and extensions for comprehensive analysis. Designed for seamless setup and continuous improvement.

@@ -1,5 +1,9 @@
 /**
- * Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved
+ * @file
+ * @author Tomáš Chochola <chocholatom1997@gmail.com>
+ * @copyright Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved
+ *
+ * @license
  *
  * This software is the exclusive property of Tomáš Chochola, protected by copyright laws.
  * Although the source code may be accessible, it is not free for use without a valid license.
@@ -9,13 +13,12 @@
  * The full license terms are detailed in the LICENSE.md file within the source code repository.
  * The terms are subject to changes. Users are encouraged to review them periodically.
  *
- * The Proprietor: Tomáš Chochola
- * - Role: The Creator, Proprietor & Project Visionary
- * - Email: chocholatom1997@gmail.com
- * - GitHub: https://github.com/tomchochola
- * - Sponsor & License: https://github.com/sponsors/tomchochola
+ * @see {@link https://github.com/tomchochola} Personal GitHub
+ * @see {@link https://github.com/premierstacks} Premierstacks GitHub
+ * @see {@link https://github.com/sponsors/tomchochola} Sponsor & License
+ * @see {@link https://premierstacks.com} Premierstacks website
  */
 
-import { configs } from '@tomchochola/prettier-config';
+import { recommended } from '@premierstacks/prettier-stack';
 
-export default configs.recommended();
+export default recommended();

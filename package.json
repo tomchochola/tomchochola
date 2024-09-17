@@ -32,8 +32,8 @@
     "url": "https://github.com/tomchochola/tomchochola.git"
   },
   "devDependencies": {
-    "@tomchochola/prettier-config": "github:tomchochola/prettier-config",
-    "@tomchochola/eslint-config": "github:tomchochola/eslint-config"
+    "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack",
+    "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack"
   },
   "private": true,
   "type": "module"

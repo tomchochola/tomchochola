@@ -5,7 +5,7 @@ SHELL := /bin/bash
 .DEFAULT_GOAL := never
 
 # Variables
-SOURCES = $(shell git ls-files --others --exclude-standard --cached)
+SOURCES = $(shell find . -maxdepth 1 -type f)
 
 # Goals
 .PHONY: audit
@@ -42,7 +42,7 @@ fix: fix_eslint fix_prettier
 .PHONY: fix_eslint
 fix_eslint: ./node_modules/eslint_fix_stamp
 
-./node_modules/eslint_fix_stamp: ./node_modules/.bin/eslint ${SOURCES}
+./node_modules/eslint_fix_stamp: ./node_modules/.bin/eslint ./eslint.config.js ${SOURCES}
 	./node_modules/.bin/eslint --fix .
 	touch ./node_modules/eslint_fix_stamp
 	touch ./node_modules/eslint_lint_stamp
@@ -50,7 +50,7 @@ fix_eslint: ./node_modules/eslint_fix_stamp
 .PHONY: fix_prettier
 fix_prettier: ./node_modules/prettier_fix_stamp
 
-./node_modules/prettier_fix_stamp: ./node_modules/.bin/prettier ${SOURCES}
+./node_modules/prettier_fix_stamp: ./node_modules/.bin/prettier ./prettier.config.js ${SOURCES}
 	./node_modules/.bin/prettier -w .
 	touch ./node_modules/prettier_fix_stamp
 	touch ./node_modules/prettier_lint_stamp
@@ -61,7 +61,7 @@ lint: lint_eslint lint_prettier
 .PHONY: lint_eslint
 lint_eslint: ./node_modules/eslint_lint_stamp
 
-./node_modules/eslint_lint_stamp: ./node_modules/.bin/eslint ${SOURCES}
+./node_modules/eslint_lint_stamp: ./node_modules/.bin/eslint ./eslint.config.js ${SOURCES}
 	./node_modules/.bin/eslint .
 	touch ./node_modules/eslint_lint_stamp
 	touch ./node_modules/eslint_fix_stamp
@@ -69,7 +69,7 @@ lint_eslint: ./node_modules/eslint_lint_stamp
 .PHONY: lint_prettier
 lint_prettier: ./node_modules/prettier_lint_stamp
 
-./node_modules/prettier_lint_stamp: ./node_modules/.bin/prettier ${SOURCES}
+./node_modules/prettier_lint_stamp: ./node_modules/.bin/prettier ./prettier.config.js ${SOURCES}
 	./node_modules/.bin/prettier -c .
 	touch ./node_modules/prettier_lint_stamp
 	touch ./node_modules/prettier_fix_stamp
@@ -90,7 +90,7 @@ testing:
 update: update_npm
 
 .PHONY: update_npm
-update_npm:
+update_npm: package.json
 	npm update --install-links --include prod --include dev --include peer --include optional
 
 # Dependencies

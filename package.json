@@ -1,8 +1,10 @@
 {
   "name": "@tomchochola/tomchochola",
-  "description": "tomchochola github profile",
+  "description": "https://github.com/tomchochola",
   "keywords": [
-    "tomchochola"
+    "tomchochola",
+    "premierstacks",
+    "https://github.com/tomchochola"
   ],
   "homepage": "https://github.com/tomchochola/tomchochola",
   "bugs": {
@@ -26,14 +28,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/tomchochola"
   },
-  "main": "./src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomchochola/tomchochola.git"
   },
   "devDependencies": {
-    "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack",
-    "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack"
+    "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack",
+    "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack"
   },
   "private": true,
   "type": "module"

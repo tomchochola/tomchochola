@@ -73,7 +73,6 @@ Explore some of the available templates:
 **[https://github.com/tomchochola/node-webpack-typescript-library-template](https://github.com/tomchochola/node-webpack-typescript-library-template)**<br />
 **[https://github.com/tomchochola/node-webpack-typescript-app-template](https://github.com/tomchochola/node-webpack-typescript-app-template)**<br />
 **[https://github.com/tomchochola/browser-webpack-typescript-app-template](https://github.com/tomchochola/browser-webpack-typescript-app-template)**<br />
-**[https://github.com/tomchochola/laravel-app-template](https://github.com/tomchochola/laravel-app-template)**<br />
 
 _More templates are available in our private repositories._
 
@@ -90,7 +89,6 @@ Our stacks are designed to simplify complex setups and provide a consistent foun
 **[https://github.com/tomchochola/stylelint-stack](https://github.com/tomchochola/stylelint-stack)**<br />
 **[https://github.com/tomchochola/prettier-stack](https://github.com/tomchochola/prettier-stack)**<br />
 **[https://github.com/tomchochola/postcss-stack](https://github.com/tomchochola/postcss-stack)**<br />
-**[https://github.com/tomchochola/laravel-stack](https://github.com/tomchochola/laravel-stack)**<br />
 
 _Discover more stacks in our private repositories._
 

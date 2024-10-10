@@ -6,13 +6,13 @@ Welcome to my GitHub profile! In this document, I'll share a bit about myself, h
 
 ## What is Tomchochola
 
-[https://gitub.com/tomchochola](https://gitub.com/tomchochola)
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
 This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
 ## What is Premierstacks
 
-[https://gitub.com/premierstacks](https://gitub.com/premierstacks)
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
 Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
@@ -68,12 +68,12 @@ Developed by experienced professionals dedicated to quality and excellence.
 
 Explore some of the available templates:
 
-**[https://github.com/premierstacks/php-app-template](https://github.com/premierstacks/php-app-template)**<br />
-**[https://github.com/premierstacks/browser-webpack-typescript-react-app-template](https://github.com/premierstacks/browser-webpack-typescript-react-app-template)**<br />
-**[https://github.com/premierstacks/node-webpack-typescript-library-template](https://github.com/premierstacks/node-webpack-typescript-library-template)**<br />
-**[https://github.com/premierstacks/node-webpack-typescript-app-template](https://github.com/premierstacks/node-webpack-typescript-app-template)**<br />
-**[https://github.com/premierstacks/browser-webpack-typescript-app-template](https://github.com/premierstacks/browser-webpack-typescript-app-template)**<br />
-**[https://github.com/premierstacks/laravel-app-template](https://github.com/premierstacks/laravel-app-template)**<br />
+**[https://github.com/tomchochola/php-app-template](https://github.com/tomchochola/php-app-template)**<br />
+**[https://github.com/tomchochola/browser-webpack-typescript-react-app-template](https://github.com/tomchochola/browser-webpack-typescript-react-app-template)**<br />
+**[https://github.com/tomchochola/node-webpack-typescript-library-template](https://github.com/tomchochola/node-webpack-typescript-library-template)**<br />
+**[https://github.com/tomchochola/node-webpack-typescript-app-template](https://github.com/tomchochola/node-webpack-typescript-app-template)**<br />
+**[https://github.com/tomchochola/browser-webpack-typescript-app-template](https://github.com/tomchochola/browser-webpack-typescript-app-template)**<br />
+**[https://github.com/tomchochola/laravel-app-template](https://github.com/tomchochola/laravel-app-template)**<br />
 
 _More templates are available in our private repositories._
 
@@ -81,16 +81,16 @@ _More templates are available in our private repositories._
 
 Our stacks are designed to simplify complex setups and provide a consistent foundation for your projects:
 
-**[https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)**<br />
-**[https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)**<br />
-**[https://github.com/premierstacks/phpstan-stack](https://github.com/premierstacks/phpstan-stack)**<br />
-**[https://github.com/premierstacks/webpack-stack](https://github.com/premierstacks/webpack-stack)**<br />
-**[https://github.com/premierstacks/eslint-stack](https://github.com/premierstacks/eslint-stack)**<br />
-**[https://github.com/premierstacks/typescript-stack](https://github.com/premierstacks/typescript-stack)**<br />
-**[https://github.com/premierstacks/stylelint-stack](https://github.com/premierstacks/stylelint-stack)**<br />
-**[https://github.com/premierstacks/prettier-stack](https://github.com/premierstacks/prettier-stack)**<br />
-**[https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)**<br />
-**[https://github.com/premierstacks/laravel-stack](https://github.com/premierstacks/laravel-stack)**<br />
+**[https://github.com/tomchochola/php-cs-fixer-stack](https://github.com/tomchochola/php-cs-fixer-stack)**<br />
+**[https://github.com/tomchochola/php-stack](https://github.com/tomchochola/php-stack)**<br />
+**[https://github.com/tomchochola/phpstan-stack](https://github.com/tomchochola/phpstan-stack)**<br />
+**[https://github.com/tomchochola/webpack-stack](https://github.com/tomchochola/webpack-stack)**<br />
+**[https://github.com/tomchochola/eslint-stack](https://github.com/tomchochola/eslint-stack)**<br />
+**[https://github.com/tomchochola/typescript-stack](https://github.com/tomchochola/typescript-stack)**<br />
+**[https://github.com/tomchochola/stylelint-stack](https://github.com/tomchochola/stylelint-stack)**<br />
+**[https://github.com/tomchochola/prettier-stack](https://github.com/tomchochola/prettier-stack)**<br />
+**[https://github.com/tomchochola/postcss-stack](https://github.com/tomchochola/postcss-stack)**<br />
+**[https://github.com/tomchochola/laravel-stack](https://github.com/tomchochola/laravel-stack)**<br />
 
 _Discover more stacks in our private repositories._
 

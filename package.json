@@ -3,8 +3,8 @@
   "description": "https://github.com/tomchochola",
   "keywords": [
     "tomchochola",
-    "premierstacks",
-    "https://github.com/tomchochola"
+    "tomaschochola",
+    "premierstacks"
   ],
   "homepage": "https://github.com/tomchochola/tomchochola",
   "bugs": {
@@ -28,14 +28,12 @@
     "type": "github",
     "url": "https://github.com/sponsors/tomchochola"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/tomchochola/tomchochola.git"
-  },
+  "repository": "github:tomchochola/tomchochola",
   "devDependencies": {
     "@premierstacks/eslint-stack": "github:premierstacks/eslint-stack",
     "@premierstacks/prettier-stack": "github:premierstacks/prettier-stack"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "sideEffects": false
 }

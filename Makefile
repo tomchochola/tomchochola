@@ -26,9 +26,6 @@ clean:
 	rm -rf ./node_modules
 	git clean -Xfd
 
-.PHONY: commit
-commit: fix fix fix check
-
 .PHONY: development
 development:
 

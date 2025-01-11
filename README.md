@@ -42,18 +42,20 @@ Every component in Premierstacks is crafted with precision, following strict qua
 
 Pre-built templates designed to kickstart your projects with clean architecture and modern workflows. Whether you're building backend systems, frontend interfaces, or hybrid applications, these templates provide a solid foundation for rapid development.
 
+**[https://github.com/premierstacks/laravel-app-template](https://github.com/premierstacks/laravel-app-template)**<br />
 **[https://github.com/premierstacks/php-app-template](https://github.com/premierstacks/php-app-template)**<br />
+**[https://github.com/premierstacks/browser-webpack-typescript-app-template](https://github.com/premierstacks/browser-webpack-typescript-app-template)**<br />
+**[https://github.com/premierstacks/node-webpack-typescript-app-template](https://github.com/premierstacks/node-webpack-typescript-app-template)**<br />
 **[https://github.com/premierstacks/browser-webpack-typescript-react-app-template](https://github.com/premierstacks/browser-webpack-typescript-react-app-template)**<br />
 **[https://github.com/premierstacks/node-webpack-typescript-library-template](https://github.com/premierstacks/node-webpack-typescript-library-template)**<br />
-**[https://github.com/premierstacks/node-webpack-typescript-app-template](https://github.com/premierstacks/node-webpack-typescript-app-template)**<br />
-**[https://github.com/premierstacks/browser-webpack-typescript-app-template](https://github.com/premierstacks/browser-webpack-typescript-app-template)**<br />
 
 ## Available Stacks
 
 Carefully crafted stacks optimized for consistent, scalable, and maintainable development. From backend APIs to frontend styling and build tools, these stacks streamline your workflow and ensure long-term project sustainability.
 
-**[https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)**<br />
+**[https://github.com/premierstacks/laravel-stack](https://github.com/premierstacks/laravel-stack)**<br />
 **[https://github.com/premierstacks/php-stack](https://github.com/premierstacks/php-stack)**<br />
+**[https://github.com/premierstacks/php-cs-fixer-stack](https://github.com/premierstacks/php-cs-fixer-stack)**<br />
 **[https://github.com/premierstacks/phpstan-stack](https://github.com/premierstacks/phpstan-stack)**<br />
 **[https://github.com/premierstacks/webpack-stack](https://github.com/premierstacks/webpack-stack)**<br />
 **[https://github.com/premierstacks/eslint-stack](https://github.com/premierstacks/eslint-stack)**<br />

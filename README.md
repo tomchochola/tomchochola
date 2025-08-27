@@ -62,7 +62,7 @@ Carefully crafted stacks optimized for consistent, scalable, and maintainable de
 **[https://github.com/premierstacks/stylelint-stack](https://github.com/premierstacks/stylelint-stack)**<br />
 **[https://github.com/premierstacks/prettier-stack](https://github.com/premierstacks/prettier-stack)**<br />
 **[https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)**<br />
-**[https://github.com/premierstacks/babel-stack](https://github.com/premierstacks/babgel-stack)**<br />
+**[https://github.com/premierstacks/babel-stack](https://github.com/premierstacks/babel-stack)**<br />
 
 ## Support the Creator
 

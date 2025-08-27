@@ -42,12 +42,11 @@ Every component in Premierstacks is crafted with precision, following strict qua
 
 Pre-built templates designed to kickstart your projects with clean architecture and modern workflows. Whether you're building backend systems, frontend interfaces, or hybrid applications, these templates provide a solid foundation for rapid development.
 
-**[https://github.com/premierstacks/laravel-app-template](https://github.com/premierstacks/laravel-app-template)**<br />
-**[https://github.com/premierstacks/php-app-template](https://github.com/premierstacks/php-app-template)**<br />
-**[https://github.com/premierstacks/browser-webpack-typescript-app-template](https://github.com/premierstacks/browser-webpack-typescript-app-template)**<br />
-**[https://github.com/premierstacks/node-webpack-typescript-app-template](https://github.com/premierstacks/node-webpack-typescript-app-template)**<br />
-**[https://github.com/premierstacks/browser-webpack-typescript-react-app-template](https://github.com/premierstacks/browser-webpack-typescript-react-app-template)**<br />
-**[https://github.com/premierstacks/node-webpack-typescript-library-template](https://github.com/premierstacks/node-webpack-typescript-library-template)**<br />
+**[https://github.com/premierstacks/laravel-api-template](https://github.com/premierstacks/laravel-api-template)**<br />
+**[https://github.com/premierstacks/php-template](https://github.com/premierstacks/php-template)**<br />
+**[https://github.com/premierstacks/react-spa-template](https://github.com/premierstacks/react-spa-template)**<br />
+**[https://github.com/premierstacks/express-api-template](https://github.com/premierstacks/express-api-template)**<br />
+**[https://github.com/premierstacks/react-library-template](https://github.com/premierstacks/react-library-template)**<br />
 
 ## Available Stacks
 
@@ -63,6 +62,7 @@ Carefully crafted stacks optimized for consistent, scalable, and maintainable de
 **[https://github.com/premierstacks/stylelint-stack](https://github.com/premierstacks/stylelint-stack)**<br />
 **[https://github.com/premierstacks/prettier-stack](https://github.com/premierstacks/prettier-stack)**<br />
 **[https://github.com/premierstacks/postcss-stack](https://github.com/premierstacks/postcss-stack)**<br />
+**[https://github.com/premierstacks/babel-stack](https://github.com/premierstacks/babgel-stack)**<br />
 
 ## Support the Creator
 
